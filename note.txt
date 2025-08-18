@@ -1,0 +1,4 @@
+save ENV files
+bold all the header like Our Team
+PORT=3000
+GOOGLE_MAP_API="AIzaSyD9_viwyG6i2XAsOLDIsou40uPVuivzWWs"

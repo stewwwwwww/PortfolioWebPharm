@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+}
+
+p {
+  @apply font-[Inter,sans-serif] lg:font-medium;
+}
+a {
+  @apply font-[Inter,sans-serif] text-[1.25rem] lg:font-medium;
+}
+
+h1 {
+  @apply font-[Inter,sans-serif] text-[3rem] md:text-[3.75rem] lg:text-[4.5rem] lg:font-medium;
+}
+h2 {
+  @apply font-[Inter,sans-serif] text-[2rem] lg:text-[2.25rem] lg:font-medium;
+}
+h4 {
+  @apply font-[Inter,sans-serif] text-[1.5rem] lg:text-[1.7rem] lg:font-medium;
+}
+h5 {
+  @apply font-[Inter,sans-serif] text-[1.25rem] lg:font-medium;
+}
+h6 {
+  @apply font-[Inter,sans-serif] text-[1.25rem] lg:text-[1.25rem] lg:font-medium;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.shadowContainer {
+  @apply shadow-[0_0_1rem_rgba(0,55,140,0.126)];
+}
+.containerHover {
+  @apply transition duration-[0.15s] ease-in hover:-translate-y-3;
+}
+
+.extendLink {
+  @apply [&>*:nth-child(1)]:mr-0 [&>*:nth-child(1)]:w-0 [&>*:nth-child(1)]:transition-all [&>*:nth-child(1)]:duration-300 [&>*:nth-child(1)]:ease-in-out [&>*:nth-child(1)]:hover:mr-2 [&>*:nth-child(1)]:hover:w-4;
+}
+.dashboardDropdown {
+  @apply flex cursor-pointer items-center justify-between py-2  [&>*:nth-child(2)]:transition-transform  [&>*:nth-child(2)]:duration-300 [&>*:nth-child(2)]:ease-in-out;
+}
+.navLinkEffects {
+  @apply cursor-pointer transition-colors duration-300 ease-in-out hover:text-[#9eabb8];
+}
+.leaflet-pane {
+  z-index: 0 !important;
+}
