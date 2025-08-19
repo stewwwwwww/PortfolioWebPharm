@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebPharm/static/css/main.8e5286a7.css",
+    "main.js": "/PortfolioWebPharm/static/js/main.7f270052.js",
+    "static/media/introVideo.mp4": "/PortfolioWebPharm/static/media/introVideo.57b1628d3f429872b19e.mp4",
+    "static/media/doctor.jpg": "/PortfolioWebPharm/static/media/doctor.deb55bc01499496b849a.jpg",
+    "static/media/research2.jpg": "/PortfolioWebPharm/static/media/research2.3433615958ab0d43ffa4.jpg",
+    "static/media/research.jpg": "/PortfolioWebPharm/static/media/research.7ea5db6022d60f1ced11.jpg",
+    "static/media/ceo.jpg": "/PortfolioWebPharm/static/media/ceo.a8d9c49fff1cb2866397.jpg",
+    "static/media/pharmacist.jpg": "/PortfolioWebPharm/static/media/pharmacist.1fee3f77f823a658f4c9.jpg",
+    "static/media/research1.jpg": "/PortfolioWebPharm/static/media/research1.4b31a00bbbaae999e9d8.jpg",
+    "static/media/research3.jpg": "/PortfolioWebPharm/static/media/research3.aa57eba2645c39cffa32.jpg",
+    "static/media/partner4.png": "/PortfolioWebPharm/static/media/partner4.95a6a554ea63d16684a6.png",
+    "static/media/partner2.png": "/PortfolioWebPharm/static/media/partner2.c2d1037c17c2d38e6a8d.png",
+    "static/media/partner1.png": "/PortfolioWebPharm/static/media/partner1.a62219be84a7b904cc93.png",
+    "static/media/companyLogo.png": "/PortfolioWebPharm/static/media/companyLogo.909120327a76be4bb92e.png",
+    "static/media/partner3.png": "/PortfolioWebPharm/static/media/partner3.a0224cb479a1ca8fb885.png",
+    "static/media/zaloblack.svg": "/PortfolioWebPharm/static/media/zaloblack.2cb6d0b0905056764ebc683d85cfafde.svg",
+    "static/media/zalowhite.svg": "/PortfolioWebPharm/static/media/zalowhite.f49dd77c955cd348f56fe7509c42baaa.svg",
+    "index.html": "/PortfolioWebPharm/index.html",
+    "static/media/facebookblack.svg": "/PortfolioWebPharm/static/media/facebookblack.2c337861b78263feacb0aa6d8d28fc4b.svg",
+    "static/media/facebookwhite.svg": "/PortfolioWebPharm/static/media/facebookwhite.af91619d149108a84bef00d9a3f554eb.svg",
+    "static/media/delete.svg": "/PortfolioWebPharm/static/media/delete.001553b4c71144e554d2b69a5706f0c8.svg",
+    "static/media/tiktokblack.svg": "/PortfolioWebPharm/static/media/tiktokblack.5efd20aa2016da3bb385bb50bca73c76.svg",
+    "static/media/tiktokwhite.svg": "/PortfolioWebPharm/static/media/tiktokwhite.976ad7aa130e25491698a884323abbdd.svg",
+    "main.8e5286a7.css.map": "/PortfolioWebPharm/static/css/main.8e5286a7.css.map",
+    "main.7f270052.js.map": "/PortfolioWebPharm/static/js/main.7f270052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e5286a7.css",
+    "static/js/main.7f270052.js"
+  ]
+}
